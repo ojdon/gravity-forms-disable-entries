@@ -3,7 +3,7 @@
 Plugin Name:  Gravity Forms Disable Entries
 Plugin URI:   https://github.com/ojdon/gravity-forms-disable-entries/new/master
 Description:  Disables the entry storage functionality in Gravity Forms for WordPress.
-Version:      20180604
+Version:      1.0.1
 Author:       Ollie Reardon 
 Author URI:   https://ojdon.github.io
 License:      MIT
