@@ -1,3 +1,4 @@
+<?php 
 /*
 Plugin Name:  Gravity Forms Disable Entries
 Plugin URI:   https://github.com/ojdon/gravity-forms-disable-entries/new/master
